@@ -1,0 +1,7 @@
+member_casual,bike_type,total_rides
+member,classic_bike,1760579
+member,electric_bike,1888957
+casual,classic_bike,974837
+casual,electric_bike,1091366
+member,electric_scooter,59121
+casual,electric_scooter,85215
