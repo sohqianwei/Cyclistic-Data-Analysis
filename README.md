@@ -49,7 +49,7 @@ This project is part of the Google Data Analytics Professional Certification c
     * Open cyclistic_dashboard.twb in Tableau Desktop to view the interactive dashboards.
 
 7. Report:
-    * Refer to Cyclistic_Report.pdf for the final findings and recommendations.
+    * Refer to cyclistic-data-analysis-report.pdf for the final findings and recommendations.
 
 ## Analysis Insights
 
