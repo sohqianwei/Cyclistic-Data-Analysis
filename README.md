@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of the Google Data Analytics Professional Certification capstone. The goal of the Cyclistic Case Study is to analyze a bike-share dataset to uncover trends and insights that can inform a marketing strategy aimed at converting casual riders into annual members. The dataset contains trip data from Cyclistic, a fictional bike-share company.
+This project is part of the Google Data Analytics Professional Certification capstone. The goal of the Cyclistic Case Study is to analyze a bike-share dataset to uncover trends and insights that can inform a marketing strategy aimed at converting casual riders into annual members. The dataset contains trip data from Cyclistic, a fictional bike-share company. The Cyclistic dataset comes from Divvy, a bike-sharing system in Chicago, operated by Lyft. The dataset is publicly available through the City of Chicago's open data portal 
 
 ## Objectives:
 
